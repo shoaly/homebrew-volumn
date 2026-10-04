@@ -1,6 +1,6 @@
 cask "volumn" do
-  version "1.0.1"
-  sha256 "fe0e0d30ce84b822c6c6d8a015daa56f0c47cae1333e7394d65c7acffba6a853"
+  version "1.0.2"
+  sha256 "79178a397fc4d5dbb99246e029689284e9f880f455fb73d4f42bb6d9758fe4c6"
 
   url "https://github.com/shoaly/homebrew-volumn/releases/download/v#{version}/volumn.zip"
   name "Volumn"
