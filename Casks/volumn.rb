@@ -7,7 +7,7 @@ cask "volumn" do
   desc "Menu bar software volume control for all apps"
   homepage "https://github.com/shoaly/homebrew-volumn"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "volumn.app"
 
