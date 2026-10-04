@@ -58,5 +58,3 @@ brew install --cask shoaly/volumn/volumn
 ## 说明
 
 - 开启期间，所有应用（含系统提示音）的声音都会经过 Volumn；Volumn 自身的声音除外；
-- 受保护内容（部分流媒体视频）是否能被截取，取决于系统策略；
-- 如果同时在系统里调了音量，最终音量是系统音量与 Volumn 的叠加。
